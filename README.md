@@ -19,3 +19,7 @@ Solution: [linked-list-cycle.js](https://github.com/akshaykhale1992/leetcode-exc
 ### - [Debounce](https://leetcode.com/problems/debounce/)
 
 Solution: [debounce.js](https://github.com/akshaykhale1992/leetcode-excercise/blob/main/debounce.js)
+
+### - [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/)
+
+Solution: [promise-time-limit.js](https://github.com/akshaykhale1992/leetcode-excercise/blob/main/promise-time-limit.js)

@@ -47,3 +47,7 @@ Solution: [promise-chaining.js](https://github.com/akshaykhale1992/leetcode-exce
 ### - [Is Object Empty](https://leetcode.com/problems/is-empty-object/)
 
 Solution: [is-object-empty.js](https://github.com/akshaykhale1992/leetcode-excercise/blob/main/is-object-empty.js)
+
+### - [Two Sum](https://leetcode.com/problems/two-sum/)
+
+Solution: [two-sum.js](https://github.com/akshaykhale1992/leetcode-excercise/blob/main/two-sum.js)

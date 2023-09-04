@@ -27,3 +27,7 @@ Solution: [promise-time-limit.js](https://github.com/akshaykhale1992/leetcode-ex
 ### - [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 
 Solution: [first-missing-positive.js](https://github.com/akshaykhale1992/leetcode-excercise/blob/main/first-missing-positive.js)
+
+### - [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/)
+
+Solution: [to-be-or-not-to-be.js](https://github.com/akshaykhale1992/leetcode-excercise/blob/main/to-be-or-not-to-be.js)

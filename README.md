@@ -43,3 +43,7 @@ Solution: [group-by.js](https://github.com/akshaykhale1992/leetcode-excercise/bl
 ### - [Add Two Promises](https://leetcode.com/problems/add-two-promises/)
 
 Solution: [promise-chaining.js](https://github.com/akshaykhale1992/leetcode-excercise/blob/main/promise-chaining.js)
+
+### - [Is Object Empty](https://leetcode.com/problems/is-empty-object/)
+
+Solution: [is-object-empty.js](https://github.com/akshaykhale1992/leetcode-excercise/blob/main/is-object-empty.js)

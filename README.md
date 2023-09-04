@@ -35,3 +35,7 @@ Solution: [to-be-or-not-to-be.js](https://github.com/akshaykhale1992/leetcode-ex
 ### - [Calculator with Method Chaining](https://leetcode.com/problems/to-be-or-not-to-be/)
 
 Solution: [to-be-or-not-to-be.js](https://github.com/akshaykhale1992/leetcode-excercise/blob/main/to-be-or-not-to-be.js)
+
+### - [Group By](https://leetcode.com/problems/group-by/)
+
+Solution: [group-by.js](https://github.com/akshaykhale1992/leetcode-excercise/blob/main/group-by.js)

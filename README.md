@@ -31,3 +31,7 @@ Solution: [first-missing-positive.js](https://github.com/akshaykhale1992/leetcod
 ### - [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/)
 
 Solution: [to-be-or-not-to-be.js](https://github.com/akshaykhale1992/leetcode-excercise/blob/main/to-be-or-not-to-be.js)
+
+### - [Calculator with Method Chaining](https://leetcode.com/problems/to-be-or-not-to-be/)
+
+Solution: [to-be-or-not-to-be.js](https://github.com/akshaykhale1992/leetcode-excercise/blob/main/to-be-or-not-to-be.js)

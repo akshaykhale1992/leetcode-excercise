@@ -23,3 +23,7 @@ Solution: [debounce.js](https://github.com/akshaykhale1992/leetcode-excercise/bl
 ### - [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/)
 
 Solution: [promise-time-limit.js](https://github.com/akshaykhale1992/leetcode-excercise/blob/main/promise-time-limit.js)
+
+### - [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+
+Solution: [first-missing-positive.js](https://github.com/akshaykhale1992/leetcode-excercise/blob/main/first-missing-positive.js)

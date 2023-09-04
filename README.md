@@ -39,3 +39,7 @@ Solution: [to-be-or-not-to-be.js](https://github.com/akshaykhale1992/leetcode-ex
 ### - [Group By](https://leetcode.com/problems/group-by/)
 
 Solution: [group-by.js](https://github.com/akshaykhale1992/leetcode-excercise/blob/main/group-by.js)
+
+### - [Add Two Promises](https://leetcode.com/problems/add-two-promises/)
+
+Solution: [promise-chaining.js](https://github.com/akshaykhale1992/leetcode-excercise/blob/main/promise-chaining.js)

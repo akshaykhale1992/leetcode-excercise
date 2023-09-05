@@ -55,3 +55,7 @@ Solution: [two-sum.js](https://github.com/akshaykhale1992/leetcode-excercise/blo
 ### - [Best time to buy and sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 Solution: [best-time-to-buy-and-sell-stock.js](https://github.com/akshaykhale1992/leetcode-excercise/blob/main/best-time-to-buy-and-sell-stock.js)
+
+### - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+
+Solution: [roman-to-integer.js](https://github.com/akshaykhale1992/leetcode-excercise/blob/main/roman-to-integer.js)

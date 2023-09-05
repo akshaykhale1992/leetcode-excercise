@@ -51,3 +51,7 @@ Solution: [is-object-empty.js](https://github.com/akshaykhale1992/leetcode-excer
 ### - [Two Sum](https://leetcode.com/problems/two-sum/)
 
 Solution: [two-sum.js](https://github.com/akshaykhale1992/leetcode-excercise/blob/main/two-sum.js)
+
+### - [Best time to buy and sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+
+Solution: [best-time-to-buy-and-sell-stock.js](https://github.com/akshaykhale1992/leetcode-excercise/blob/main/best-time-to-buy-and-sell-stock.js)

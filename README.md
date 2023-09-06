@@ -59,3 +59,7 @@ Solution: [best-time-to-buy-and-sell-stock.js](https://github.com/akshaykhale199
 ### - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 
 Solution: [roman-to-integer.js](https://github.com/akshaykhale1992/leetcode-excercise/blob/main/roman-to-integer.js)
+
+### - [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+
+Solution: [palindrome-number.js](https://github.com/akshaykhale1992/leetcode-excercise/blob/main/palindrome-number.js)
